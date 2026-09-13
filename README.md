@@ -76,4 +76,8 @@ else:
 
 ### Output:
 
+<img width="1271" height="770" alt="image" src="https://github.com/user-attachments/assets/ad2e3b74-86a1-4e20-bcd1-1fd784a1b595" />
+
 ### Result:
+
+Thus Web Scraping on Amazon using (beautifulsoup) Python is implemented.
